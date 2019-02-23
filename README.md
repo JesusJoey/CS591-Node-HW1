@@ -1,6 +1,6 @@
 # CS591-Node-HW1
 ## Router Path
-The path of router I define is /hw1 which is http://local:3001/hw1 in the browser
+The path of router I define is /hw1 which is http://localhost:3001/hw1 in the browser
 ## GET Method
 Displayed user information in JSON format
 
