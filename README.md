@@ -1,1 +1,9 @@
 # CS591-Node-HW1
+## Router path
+The path of router I define is /hw1 which is http://local:3001/hw1 in the browser
+## GET Method
+Displayed user information in JSON format
+<img src="">
+## POST Method
+Utilized POSTMAN to send the request and post the response.
+<img src="">
